@@ -1,4 +1,4 @@
-package com.jspider.vortingsurvey;
+package com.jspider.votingsurvey;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
