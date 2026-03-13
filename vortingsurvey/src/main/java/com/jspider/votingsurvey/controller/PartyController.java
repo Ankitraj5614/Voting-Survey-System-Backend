@@ -1,4 +1,4 @@
-package com.jspider.vortingsurvey.controller;
+package com.jspider.votingsurvey.controller;
 
 
 import java.util.List;
