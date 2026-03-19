@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jspider</groupId>
-	<artifactId>vortingsurvey</artifactId>
+	<artifactId>votingsurvey</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>vortingsurvey</name>
+	<name>votingsurvey</name>
 	<description>Voting survey project for Spring Boot</description>
 	<url/>
 	<licenses>
